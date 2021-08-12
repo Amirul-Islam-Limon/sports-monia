@@ -1,0 +1,45 @@
+.banner img{
+    width: 25%;
+}
+.banner{
+    text-align: center;
+    background-color: rgb(204, 157, 248);
+}
+.text h3{
+    font-size: 100px;
+    color: rgb(207, 41, 41);
+}
+.basic-information, .about, .social-link{
+    background-color: rgb(6, 6, 51);
+    color: white;
+}
+.basic-information img{
+    max-height: 200px;
+    margin-left: 20px;
+}
+.information{
+    background-color: blue;
+    padding: 15px;
+    border-radius: 10px;
+}
+.basic-information{
+    padding-top: 15px;
+}
+.about{
+    padding-top: 15px;
+}
+.about p{
+    margin-bottom: 0px;
+}
+.social{
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+.social li{
+    list-style: none;
+    padding: 8px;
+    font-size: 25px;
+}
+

@@ -1,0 +1,12 @@
+.card-title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: rgb(12, 204, 76);
+    font-size: 100px;
+    text-shadow: 2px 7px 2px black;
+}
+.card img{
+    max-height: 500px;
+}

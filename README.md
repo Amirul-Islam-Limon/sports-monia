@@ -9,4 +9,4 @@ Uses API and etc.
 
 "# sports-monia" 
 
-#React, #React Router, #Landing Page
+#React, #React Router, #Landing Page, #Conditional Rendaring.
